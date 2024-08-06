@@ -1,0 +1,9 @@
+.input-name{
+  border-radius: 5px;
+}
+
+.p-name{
+  color:blueviolet;
+  display: inline-flex;
+  margin: 0;
+}
